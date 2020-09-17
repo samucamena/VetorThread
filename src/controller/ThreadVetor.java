@@ -13,7 +13,7 @@ public class ThreadVetor extends Thread{
 	public void run() {
 		percorrer();
 	}
-	
+	//percorrer
 	private void percorrer() {
 		int f;
 		double initTime = System.nanoTime();
